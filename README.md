@@ -1,5 +1,6 @@
-go-errwriter
-============
+# go-errwriter
+[![Build Status](https://travis-ci.org/nasa9084/go-errwriter.svg?branch=master)](https://travis-ci.org/nasa9084/go-errwriter)
+-----
 
 a simple wrapper for io.Writer to help simplify the error handling of Write()
 
